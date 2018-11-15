@@ -7,12 +7,11 @@
 #+startup: showall
 
 {{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To understand the basics of deep neural networks
+- To understand CNN and RNN architectures of deep neural networks
+- To comprehend the advanced deep learning models
+- To learn the evaluation metrics for deep learning models
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |
