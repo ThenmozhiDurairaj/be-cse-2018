@@ -51,3 +51,5 @@ After the completion of this course, students will be able to:
 ** References
 1. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze, ``Introduction to Information Retrieval'', Cambridge University Press, First South Asian Edition, 2008.
 2. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,``Information Retrieval - Implementing and Evaluating Search Engines'', The MIT Press, Cambridge, Massachusetts London, England, 2010
+3. Chanamallu Srinivasa Rao , "Content based Image Retrieval Fundamentals and Algorithms: Basics, Concepts and Novel Algorithms",  LAP LAMBERT Academic Publishing, 2012
+4. Macro Bonzanini , "Mastering Social Media Mining with Python", Packt publishing, 2016
