@@ -40,9 +40,11 @@ Upon the completion of the course the students should be able to:
 - Apply computational methods in semantic and discourse processing (K3)
 - Apply NLP techniques to MT, IR, IE, QA and Summarization systems (K3)
 
-     
-** References
+** Text Book
 1. Daniel Jurafsky and James H Martin, “Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognition”,2nd Edition, Prentice Hall, 2008.
-2. Tanveer Siddiqui, U.S. Tiwary, “Natural Language Processing and Information Retrieval”, Oxford University Press, 2008.
-3. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
-4. Nitin Indurkhya, Fred J. Damerau, Handbook of Natural Language Processing, 2nd Edition, CRC Press, 2010.
+
+** References
+
+1. Tanveer Siddiqui, U.S. Tiwary, “Natural Language Processing and Information Retrieval”, Oxford University Press, 2008.
+2. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
+3. Nitin Indurkhya, Fred J. Damerau, Handbook of Natural Language Processing, 2nd Edition, CRC Press, 2010.
