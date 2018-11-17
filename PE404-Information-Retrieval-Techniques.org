@@ -45,7 +45,9 @@ After the completion of this course, students will be able to:
 - Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval.  (K3)
 - Describe various IR applications. (K2)
 
-** References
+** Text Book
 1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information Retrieval: The concepts and Technology behind Search'', ACM Press Books, Second Edition, 2011.
-2. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze, ``Introduction to Information Retrieval'', Cambridge University Press, First South Asian Edition, 2008.
-3. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,``Information Retrieval - Implementing and Evaluating Search Engines'', The MIT Press, Cambridge, Massachusetts London, England, 2010
+
+** References
+1. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze, ``Introduction to Information Retrieval'', Cambridge University Press, First South Asian Edition, 2008.
+2. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,``Information Retrieval - Implementing and Evaluating Search Engines'', The MIT Press, Cambridge, Massachusetts London, England, 2010
